@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sthompson-blip/GitHub/issues"
   },
-  "homepage": "https://github.com/sthompson-blip/GitHub#readme"
+  "homepage": "https://github.com/sthompson-blip/GitHub#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
 }
