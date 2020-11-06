@@ -1,0 +1,29 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Tailwindcss_practice",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthompson-blip/GitHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sthompson-blip/GitHub/issues"
+  },
+  "homepage": "https://github.com/sthompson-blip/GitHub#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss-cli": "^8.2.0",
+    "stylelint": "^13.7.2",
+    "tailwindcss": "^1.9.6"
+  },
+  "devDependencies": {
+    "postcss": "^8.1.6"
+  }
+}
